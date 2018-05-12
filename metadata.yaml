@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2424
     wikipedia: http://zh.wikipedia.org/wiki/%E5%88%98%E5%90%91
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25414#---
 gutenberg_issued: '2008-05-10'
 gutenberg_type: Text
 identifiers:
