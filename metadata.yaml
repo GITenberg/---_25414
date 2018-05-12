@@ -1,0 +1,33 @@
+_repo: '---_25414'
+_version: 0.1.0
+alternative_title: Lie xian zhuan
+contributor:
+  translator:
+    agent_name: Zhang, Jinling
+    alias: 張金嶺
+    gutenberg_agent_id: '31320'
+    url: http://www.gutenberg.org/2009/agents/31320
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Xiang
+    alias: 劉向
+    gutenberg_agent_id: '2424'
+    url: http://www.gutenberg.org/2009/agents/2424
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%88%98%E5%90%91
+description: ''
+gutenberg_issued: '2008-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25414'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Fairies -- China'
+title: 列仙傳
+url: http://www.gutenberg.org/ebooks/25414
